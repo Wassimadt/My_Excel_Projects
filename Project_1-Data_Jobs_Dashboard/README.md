@@ -75,7 +75,7 @@ IF(
 
 📉 Dashboard Implementation
 
-![5](https://github.com/user-attachments/assets/83b1d33a-555e-4ad9-b4b3-91da681b55c3){: width="200px" }
+![5](https://github.com/user-attachments/assets/83b1d33a-555e-4ad9-b4b3-91da681b55c3) {: width="200px" }
 
 
 #### ⏰ Count of Job Schedule Type
