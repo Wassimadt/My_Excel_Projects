@@ -74,7 +74,8 @@ IF(
 ![4](https://github.com/user-attachments/assets/6f301608-8874-46ba-9eba-4df14104fc19)
 
 📉 Dashboard Implementation
-![5](https://github.com/user-attachments/assets/516a8c39-1cad-44b3-b48a-dba424e33823)
+<img src="![5](https://github.com/user-attachments/assets/dc51488e-d853-4819-9db7-cea6b7fd0959)
+" width="400" height="500" alt="Salary Dashboard Title">
 
 #### ⏰ Count of Job Schedule Type
 
