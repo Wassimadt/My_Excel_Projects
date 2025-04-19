@@ -75,7 +75,7 @@ IF(
 
 📉 Dashboard Implementation
 
-![5](https://github.com/user-attachments/assets/83b1d33a-555e-4ad9-b4b3-91da681b55c3) {: width="200px" }
+![5](https://github.com/user-attachments/assets/83b1d33a-555e-4ad9-b4b3-91da681b55c3)
 
 
 #### ⏰ Count of Job Schedule Type
@@ -88,6 +88,7 @@ IF(
 - **🔢 Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
 
 🍽️ Background Table
+
 ![6](https://github.com/user-attachments/assets/dbb73dd3-59a6-4ff2-b862-52e6f416f0aa)
 
 📉 Dashboard Implementation
