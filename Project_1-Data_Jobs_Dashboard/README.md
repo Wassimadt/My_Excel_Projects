@@ -70,6 +70,7 @@ IF(
 - **🔢 Formula Purpose:** This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
 🍽️ Background Table
+
 ![4](https://github.com/user-attachments/assets/6f301608-8874-46ba-9eba-4df14104fc19)
 
 📉 Dashboard Implementation
